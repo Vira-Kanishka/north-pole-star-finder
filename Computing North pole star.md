@@ -30,7 +30,7 @@ On strict standards, a star $S$ is not a pole star if it doesn't satisfy: $\beta
 
 We compute the pole-star $S_P$ as follows: 
 
-$C = \{ S : β_S \in [β_P − τ, β_P + τ] \,\,\text{\&} \,\, m_S ≤ 6 \}$ is the set of candidate pole stars but only one element of $C$ is pole star $S_P$
+$C = \{ S : β_S \in [β_P − τ, β_P + τ] \,\,\text{and} \,\, m_S ≤ 6 \}$ is the set of candidate pole stars but only one element of $C$ is pole star $S_P$
 let $C^* = \{S\in C : p_S \leq p_{S^{'}} \, \forall \, S^{'} \in C\}$. So, $S_P = \text{argmin}_{\{S \in C^*\}} \, m_{S}$    
 Here, we take the subset $C^*$ of $C$ that contains the stars with min. $p_S$, and then we take the star with min. $m_S$ from $C^*$. 
 
