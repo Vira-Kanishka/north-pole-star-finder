@@ -10,7 +10,7 @@ $(\beta_S \, , \, \lambda_S) =$ ecliptic coordinates of star $S$
 $\tau$ = chosen max. angular distance from pole at which star $S$ may be a pole-star 
 $m_S =$ apparent magnitude of star $S$, i.e., brightness of $S$ to observer on earth
 
-As per Spherical Law of Cosines, for any spherical triangle sides $a, b, c$ and interior angle $C$ opposite to $c$, the following holds: $\cos{c} = \cos{a} \cos{b} + \sin{a} \sin{b} \cos{C}$
+As per spherical Law of Cosines, for any spherical triangle sides $a, b, c$ and interior angle $C$ opposite to $c$, the following holds: $\cos{c} = \cos{a} \cos{b} + \sin{a} \sin{b} \cos{C}$
 
 Using this, we get the ecliptic to equatorial transformation:
 $\cos({90^{\circ} - \delta}) = \cos({\epsilon}) \cos({90^{\circ}-\beta}) + \sin({\epsilon}) \sin({90^{\circ} - \beta}) \cos({90^{\circ}-\lambda})$
